@@ -1,0 +1,13 @@
+= Gretchen Assembly Documentation
+Doc Writer <kubisch@informatik.hu-berlin.de>
+v0.1, 2019-03-28
+:imagesdir: ./images
+:toc:
+
+
+_This is the Gretchen assembly manual. Following these steps will enable you to build your gretchen walking robot from the assembly kit. We encourage everybody to contribute to this project. Please share your ideas, upgrades, schematics, source-code and tricks._
+
+== Tool and Part List
+NOTE: Before starting the assembly. Check that you have all the tools and parts in place. We recommend to read this manual once before starting the assembly.
+
+WARNING: Self-manufacturing of the parts is encouraged but can not be officially supported and hence is to your own risk. If you decide to manufacture your own parts then tolerances may vary depending on the machines and methods you are using.
